@@ -1,6 +1,7 @@
 # DOTA2 Data Analysis and Prediction
 This project is for understanding DOTA2-related data and providing a predictor to forecast the winning camps of each DOTA2 match.
 ![Uploading image.png…](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg)
+<img width="80%" alt="2022-04-09_122409" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5jntDOf_Lt2lSxMaK0tOAA.jpeg">
 
 You will be able to find a comprehensive description of the project in these articles:
 

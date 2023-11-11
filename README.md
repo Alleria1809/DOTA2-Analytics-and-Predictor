@@ -18,7 +18,6 @@ https://medium.com/@xiaoyigu/data-science-for-dota2-part-2-heroes-eda-15cd705d2c
 <img width="50%" height=50% alt="2022-04-09_122409" src="https://github.com/Alleria1809/DOTA2/assets/97777827/11b7e0c0-a6f3-40f1-bb08-0ef913048ff9">
 
 ## Data Science for DOTA2(PART 2 — Winning Camp Prediction based on Draft)
-
 https://medium.com/@xiaoyigu/data-science-for-dota2-part-2-winning-camp-prediction-based-on-draft-bf1e56346cca
 
 <img width="50%" height=50% alt="2022-04-09_122409" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*AH4qaXVuayaA-hevdXiU-Q.jpeg">

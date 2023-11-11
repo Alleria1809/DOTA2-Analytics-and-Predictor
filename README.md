@@ -1,7 +1,8 @@
-# DOTA2
+# DOTA2 Data Analysis and Prediction
 This project is for understanding DOTA2-related data and providing a predictor to forecast the winning camps of each DOTA2 match.
 
 You will be able to find a comprehensive description of the project in these articles:
+![Uploading image.png…]()
 
 ## Data Science for DOTA2(PART 1 — Data Collection)
 https://medium.com/@xiaoyigu/data-science-for-dota2-part-1-data-collection-55d7d7cb07c1
